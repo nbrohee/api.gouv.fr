@@ -21,4 +21,4 @@ keywords:
   - salaire brut
 ---
 
-Permet l'estimation rapide et précise du coût d'une embauche quelque soit le contexte de l'entreprise et du salarié : salaire, category de contrat de travail (CDD, CDI, interim, indépendant ..), temps partiel, activité, géographie, taille, ... Vous obtiendrez précisément le décompte des cotisations salariales et patronales dans ce contexte. Par exemple, deux requêtes identiques hormis leur lieu d'embauche pourra donner deux résultats différents car le taux du versement transport n'y est pas forcément le même.
+Permet l'estimation rapide et précise du coût d'une embauche en fonction du contexte de l'entreprise et du salarié : salaire, type de contrat de travail (CDD, CDI, interim, indépendant ...), temps partiel, activité, géographie, taille... Vous obtiendrez précisément le décompte des cotisations salariales et patronales dans ce contexte. Par exemple, deux requêtes identiques mais avec des codes postaux différents pourra produire deux résultats distincs car le taux du versement transport n'y est pas forcément le même.
